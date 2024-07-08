@@ -12,7 +12,7 @@ Both projects are maintained by [Smallstep Labs](https://smallstep.com).
 
 You can use `step-ca` to:
 - Issue HTTPS server and client certificates that [work in browsers](https://smallstep.com/blog/step-v0-8-6-valid-HTTPS-certificates-for-dev-pre-prod.html) ([RFC5280](https://tools.ietf.org/html/rfc5280) and [CA/Browser Forum](https://cabforum.org/baseline-requirements-documents/) compliance)
-- Issue TLS certificates for DevOps: VMs, containers, APIs, database connections, Kubernetes pods...
+- Issue TLS certificates for DevOps: VMs, containers, APIs, database connections, Kubernetes pods... 
 - Issue SSH certificates:
   - For people, in exchange for single sign-on identity tokens
   - For hosts, in exchange for cloud instance identity documents
