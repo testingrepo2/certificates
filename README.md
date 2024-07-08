@@ -19,7 +19,7 @@ You can use `step-ca` to:
 - Easily automate certificate management:
   - It's an [ACME server](https://smallstep.com/docs/step-ca/acme-basics/) that supports all [popular ACME challenge types](https://smallstep.com/docs/step-ca/acme-basics/#acme-challenge-types)
   - It comes with a [Go wrapper](./examples#user-content-basic-client-usage)
-  - ... and there's a [command-line client](https://github.com/smallstep/cli) you can use in scripts!
+  - ... and there's a [command-line client](https://github.com/smallstep/cli) you can use in scripts! 
 
 ---
 
