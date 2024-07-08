@@ -7,7 +7,7 @@
 [![CLA assistant](https://cla-assistant.io/readme/badge/smallstep/certificates)](https://cla-assistant.io/smallstep/certificates)
 
 `step-ca` is an online certificate authority for secure, automated certificate management for DevOps.
-It's the server counterpart to the [`step` CLI tool](https://github.com/smallstep/cli) for working with certificates and keys.
+It's the server counterpart to the [`step` CLI tool](https://github.com/smallstep/cli) for working with certificates and keys. 
 Both projects are maintained by [Smallstep Labs](https://smallstep.com).
 
 You can use `step-ca` to:
